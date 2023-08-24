@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=yellow" style="margin-bottom: 4px;" height="30px">
 </div>
 
 <h2>📫 Contact me!</h2>
