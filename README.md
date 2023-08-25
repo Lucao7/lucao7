@@ -3,13 +3,13 @@
 👀 Aways amazed by tech and trying to learn something.
 </p>
 
-<h2>🖥 Skills</h2>
+<h2>🖥 FrontEnd Skills</h2>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=yellow" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 </div>
 
 <h2>📫 Contact me!</h2>
