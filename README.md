@@ -18,8 +18,11 @@
   <a href="https://www.linkedin.com/in/codelucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucao7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Lucas Ramos' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucao7&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br></br>
+<div align="center">
+  <a href="https://github.com/Lucao7"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucao7&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide_border=false" alt="Lucas Ramos' github stats" /></a>
+  <a href="https://github.com/Lucao7"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucao7&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" alt="Lucas Ramos' langs" /></a>
+</div>
 
 <!--
 Here are some ideas to get you started:
